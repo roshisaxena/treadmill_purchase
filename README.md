@@ -1,4 +1,7 @@
-# treadmill_purchase
+
+
+
+# treadmill_purchase : customer profiling
 
 
 A leading fitness company wants to identify the charecteristics of target audience for each type of treadmill offered by the company, to provide a better recommendation of 
